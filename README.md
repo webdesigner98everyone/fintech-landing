@@ -36,24 +36,22 @@ npm -v
 - **Ejecuta tu servidor de desarrollo en la terminal, utiliza el siguiente comando: npm run dev**
 - **Abre tu navegador y ve a http://localhost:3000**
 
-![Pantallazo de la aplicación](images/image.png)
-
 ### Imagen Home de plataforma
 
-![alt text](image-1.png)
+![Pantallazo de la aplicación](images/image.png)
 
 ### Imagen Funcionabilidad de filtro producto ahorro
 
-![alt text](image-2.png)
+![Pantallazo de la aplicación](images/image-2.png)
 
 ### Imagen Detalle del producto seleccionado
 
-![alt text](image-3.png)
+![Pantallazo de la aplicación](images/image-3.png)
 
 
 ### Imagen de plataforma responsive con funcionabilidad de menu hamburguesa
 
-![alt text](image-4.png)
+![Pantallazo de la aplicación](images/image-4.png)
 
 # ------------------------------------------------------------------------------------------------------
 ### Preguntas Complementarias
