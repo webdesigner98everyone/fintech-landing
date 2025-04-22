@@ -1,6 +1,3 @@
-# fintech-landing
-Proyecto – Frontend Senior Developer (Servicios Financieros)
-
 # FintechPro - Aplicación de Productos Financieros
 
 Esta es una aplicación que muestra productos financieros con un diseño minimalista y accesible, utilizando React, Tailwind CSS y Styled Components. La plataforma está diseñada para que sea fácil de usar, profesional y completamente responsiva.
@@ -39,7 +36,7 @@ npm -v
 - **Ejecuta tu servidor de desarrollo en la terminal, utiliza el siguiente comando: npm run dev**
 - **Abre tu navegador y ve a http://localhost:3000**
 
-![alt text](image.png)
+![Pantallazo de la aplicación](https://github.com/webdesigner98everyone/fintech-landing.git/images/mi-pantallazo.png)
 
 ### Imagen Home de plataforma
 
