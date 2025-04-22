@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "nombre": "Cuenta de Ahorros Digital",
+        "tipo": "Cuenta",
+        "tasaInteres": 1.5,
+        "categoria": "Ahorro",
+        "riesgo": "Bajo",
+        "descripcion": "Una cuenta para ahorrar con rendimiento competitivo.",
+        "beneficios": [
+            "Sin cuota de manejo",
+            "Retiros ilimitados",
+            "Apertura 100% online"
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Tarjeta de Crédito Platinum",
+        "tipo": "Tarjeta",
+        "tasaInteres": 22.5,
+        "categoria": "Crédito",
+        "riesgo": "Medio",
+        "descripcion": "Una tarjeta ideal para tus compras diarias y acumulación de puntos.",
+        "beneficios": [
+            "Cashback en compras",
+            "Acceso a salas VIP",
+            "Pago sin contacto"
+        ]
+    },
+    {
+        "id": "3",
+        "nombre": "CDT Tradicional 180 días",
+        "tipo": "Fondo",
+        "tasaInteres": 6.0,
+        "categoria": "Inversión",
+        "riesgo": "Bajo",
+        "descripcion": "Certificado de depósito a término con tasa fija.",
+        "beneficios": [
+            "Rentabilidad asegurada",
+            "Bajo riesgo",
+            "Disponible desde $500.000"
+        ]
+    },
+    {
+        "id": "4",
+        "nombre": "Crédito de Libre Inversión",
+        "tipo": "Seguro",
+        "tasaInteres": 18.9,
+        "categoria": "Préstamo",
+        "riesgo": "Medio",
+        "descripcion": "Crédito para cumplir tus metas personales sin restricciones.",
+        "beneficios": [
+            "Plazos flexibles",
+            "Desembolso rápido",
+            "Sin necesidad de codeudor"
+        ]
+    },
+    {
+        "id": "5",
+        "nombre": "Cuenta Nómina Plus",
+        "tipo": "Cuenta",
+        "tasaInteres": 0.8,
+        "categoria": "Ahorro",
+        "riesgo": "Bajo",
+        "descripcion": "Cuenta para recibir tu salario con beneficios exclusivos.",
+        "beneficios": [
+            "Anticipos de nómina",
+            "Descuentos en comercios aliados",
+            "Sin costo de mantenimiento"
+        ]
+    },
+    {
+        "id": "6",
+        "nombre": "Tarjeta Débito Joven",
+        "tipo": "Tarjeta",
+        "tasaInteres": 0.0,
+        "categoria": "Débito",
+        "riesgo": "Bajo",
+        "descripcion": "Tarjeta pensada para jóvenes entre 14 y 24 años.",
+        "beneficios": [
+            "Control parental",
+            "Descuentos en entretenimiento",
+            "Acceso a banca móvil"
+        ]
+    },
+    {
+        "id": "7",
+        "nombre": "Fondo de Inversión Moderado",
+        "tipo": "Fondo",
+        "tasaInteres": 9.2,
+        "categoria": "Fondo",
+        "riesgo": "Medio",
+        "descripcion": "Fondo diversificado con balance entre riesgo y rentabilidad.",
+        "beneficios": [
+            "Gestión profesional",
+            "Liquidez semanal",
+            "Diversificación automática"
+        ]
+    },
+    {
+        "id": "8",
+        "nombre": "Crédito Hipotecario Vivienda Nueva",
+        "tipo": "Seguro",
+        "tasaInteres": 11.5,
+        "categoria": "Hipotecario",
+        "riesgo": "Medio",
+        "descripcion": "Crédito para adquirir tu casa nueva con tasas competitivas.",
+        "beneficios": [
+            "Hasta 30 años plazo",
+            "Financiación hasta el 80%",
+            "Subsidios del gobierno"
+        ]
+    },
+    {
+        "id": "9",
+        "nombre": "Cuenta Kids",
+        "tipo": "Cuenta",
+        "tasaInteres": 1.0,
+        "categoria": "Ahorro",
+        "riesgo": "Bajo",
+        "descripcion": "Cuenta de ahorro educativa para niños y niñas.",
+        "beneficios": [
+            "Educación financiera infantil",
+            "Regalos por metas cumplidas",
+            "Acceso restringido a los padres"
+        ]
+    },
+    {
+        "id": "10",
+        "nombre": "Tarjeta de Crédito Empresarial",
+        "tipo": "Tarjeta",
+        "tasaInteres": 24.0,
+        "categoria": "Crédito",
+        "riesgo": "Alto",
+        "descripcion": "Tarjeta diseñada para gastos corporativos y administración de flujos.",
+        "beneficios": [
+            "Límites personalizados",
+            "Control de gastos por empleado",
+            "Reportes detallados mensuales"
+        ]
+    }
+]
