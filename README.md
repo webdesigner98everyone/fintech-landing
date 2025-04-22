@@ -36,7 +36,7 @@ npm -v
 - **Ejecuta tu servidor de desarrollo en la terminal, utiliza el siguiente comando: npm run dev**
 - **Abre tu navegador y ve a http://localhost:3000**
 
-![Pantallazo de la aplicación](https://github.com/webdesigner98everyone/fintech-landing.git/images/mi-pantallazo.png)
+![Pantallazo de la aplicación](https://github.com/webdesigner98everyone/fintech-landing.git/images/image.png)
 
 ### Imagen Home de plataforma
 
