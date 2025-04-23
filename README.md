@@ -49,7 +49,7 @@ npm -v
 
 ![Pantallazo de la aplicación](images/image-2.png)
 
-### Imagen Detalle del producto seleccionado
+### Imagen Detalle del producto seleccionado con gráfico básico para representar rendimiento/riesgo
 
 ![Pantallazo de la aplicación](images/image-3.png)
 
