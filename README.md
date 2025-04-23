@@ -28,6 +28,11 @@ npm -v
 - **npm install @heroicons/react** 
 - **npm install lucide-react** 
 - **npm install chart.js react-chartjs-2**
+
+# Instalar dependencias React Testing Library:
+- **npm install --save-dev @testing-library/react @testing-library/jest-dom jest babel-jest identity-obj-proxy**
+- **npm install --save-dev @types/jest @testing-library/user-event**
+  
 # ------------------------------------------------------------------------------------------------------
 ### Pasos rápidos para revisar la vista actual:
 
